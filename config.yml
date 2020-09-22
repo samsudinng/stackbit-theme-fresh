@@ -6,8 +6,8 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: "Stackbit Fresh"
-    tagline: Header Tagline
+    title: Samuel Samsudin Ng
+    tagline: To AI and Beyond
     profile_img: images/avatar.png
     background: dark
     has_nav: true
